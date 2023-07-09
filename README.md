@@ -1,5 +1,5 @@
 # 🌿 PoisonAI
-An Image Classification Model trained on 6000+ images of various plants. When an image is uploaded, it returns whether the plant is poisonous or not.
+An Image Classification Model trained on 6000+ images of various plants. When an image is uploaded, it returns whether the plant is poisonous or not. The website for our software is available here: https://poisonai.my.canva.site/
 
 To use, see the attached Jupyter Notebook file. Run all the cells, and go to this website: https://poison-ai.anvil.app
 
