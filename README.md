@@ -11,6 +11,8 @@ Follow the directions:
 1) Click the "upload" button.
 2) Choose an image of a plant from your files.
 3) Click open. Wait a few seconds and the model should return a result!
+   
+<img width="1148" alt="Screenshot 2023-07-09 at 11 12 09 AM" src="https://github.com/rishabjainX/PoisonAI/assets/86537371/a7236651-9ccf-4a75-9671-6446a3caeb9c">
 
 This model is not super accurate. It varies from around 60-80% accuracy. Unfortunately, we did not have enough time to improve the accuracy of the model or include additional features such as validation data. In the future, we also wanted to create an iOS application that can implement this model.
 
